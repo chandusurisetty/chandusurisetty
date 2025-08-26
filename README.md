@@ -22,8 +22,6 @@ and exploring how to bring **AI into the Wi-Fi world** 🤖📶
 <!-- 💻 TECH STACK -->
 <!-- ---------------------------- -->
 ## 💻 Tech Stack
-<details>
-  <summary>Click to expand 🚀</summary>
 
 **Programming & Scripting:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -65,7 +63,7 @@ and exploring how to bring **AI into the Wi-Fi world** 🤖📶
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 
-</details>
+
 
 
 <!-- ---------------------------- -->
