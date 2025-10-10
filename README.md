@@ -11,8 +11,7 @@
 <!-- ---------------------------- -->
 <h1> 🌐 Socials</h1>
 <!-- <a href="https://twitter.com/https://twitter.com/hrithikcurious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hrithikcurious" height="30" width="40" /></a> -->
-<a href="https://instagram.com/chandu_surisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/chandu_surisetty" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/chandu-surisetty-754b94179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/chandu-surisetty-754b94179" height="30" width="40"/></a>
+<a href="https://instagram.com/chandu_surisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/chandu_surisetty" height="30" width="40"/></a><a href="https://linkedin.com/in/chandu-surisetty-754b94179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/chandu-surisetty-754b94179" height="30" width="40"/></a>
 <!-- <a href="https://medium.com/@chandusurisetty58" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" height="30" width="40"/>
 </a> -->
